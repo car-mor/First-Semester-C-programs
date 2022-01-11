@@ -1,2 +1,2 @@
 # First-Semester-C-programs
-All the projects I made during my first semester at college.
+Most important projects I made during my first semester at college.
